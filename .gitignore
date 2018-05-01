@@ -15,6 +15,3 @@
 
 # GoLand
 .idea/
-
-pkg/
-bin/
